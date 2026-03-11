@@ -3,7 +3,6 @@
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS), pela UniFavip Wyden
 - Grande interesse desenvolvimento web, programação e UX/UI design
 - Em constante evolução
-- Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/carlosdwarte">
